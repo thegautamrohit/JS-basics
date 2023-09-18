@@ -1,6 +1,6 @@
 Pure functions
 High order functions
 Getters and Setters
-Generator function
+Generator function - Done
 Async Await
 Promises
