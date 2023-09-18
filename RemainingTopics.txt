@@ -1,0 +1,6 @@
+Pure functions
+High order functions
+Getters and Setters
+Generator function
+Async Await
+Promises
